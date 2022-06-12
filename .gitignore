@@ -23,3 +23,9 @@ nlp-getting-started/my_tfhub_cache/602d30248ff7929470db09f7385fc895e9ceb4c0/save
 nlp-getting-started/my_tfhub_cache/602d30248ff7929470db09f7385fc895e9ceb4c0/keras_metadata.pb
 nlp-getting-started/my_tfhub_cache/602d30248ff7929470db09f7385fc895e9ceb4c0/assets/vocab.txt
 nlp-getting-started/my_tfhub_cache/602d30248ff7929470db09f7385fc895e9ceb4c0.descriptor.txt
+nlp-getting-started/bidirectional_lstm.h5
+nlp-getting-started/bidirectional_lstm.keras
+nlp-getting-started/bidirectional_lstm.tf/keras_metadata.pb
+nlp-getting-started/bidirectional_lstm.tf/saved_model.pb
+nlp-getting-started/bidirectional_lstm.tf/variables/variables.data-00000-of-00001
+nlp-getting-started/bidirectional_lstm.tf/variables/variables.index
